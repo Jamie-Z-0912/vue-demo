@@ -1,5 +1,6 @@
 <template>
   <ul>
+    <!-- 默认插槽 -->
     <slot></slot>
   </ul>
 </template>
